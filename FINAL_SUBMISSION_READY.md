@@ -224,8 +224,8 @@ As instructed, I have attached / included:
 4. Project work and prompt workflow documentation  
 5. Practice/workout links and phase project references
 
-Submission format provided: Jupyter Notebook + Drive backup link  
-Drive link (if applicable): [Add Your Drive Link]  
+Submission format provided: Jupyter Notebook (primary) + Drive backup link (optional)  
+Drive link: N/A (Notebook attached directly in email)  
 Access permission: Enabled for reviewers
 
 This submission is being shared with both recipients before the deadline as requested.
@@ -234,7 +234,7 @@ Please let me know if any additional clarification is required.
 
 Regards,  
 Dee George  
-[Batch / Contact]
+Data Analyst Candidate
 
 ---
 

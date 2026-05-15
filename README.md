@@ -21,7 +21,7 @@ I am submitting my complete Prompt Engineering assignment and project work for r
 Please find the submission files attached / linked below:  
 - FINAL_SUBMISSION_READY.ipynb  
 - FINAL_SUBMISSION_READY.md  
-- Drive link (optional backup): [PASTE DRIVE LINK HERE]
+- Drive link (optional backup): N/A (Notebook attached directly)
 
 This email should be sent to both recipients (trainer and Neju Sir) before deadline.
 Please verify drive access permissions before sending.
