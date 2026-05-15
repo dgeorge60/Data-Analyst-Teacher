@@ -2,7 +2,11 @@
 
 ## Final Ready Submission
 
-Use this file for direct assignment submission:
+Use this notebook file for direct assignment submission:
+
+- [FINAL_SUBMISSION_READY.ipynb](./FINAL_SUBMISSION_READY.ipynb)
+
+Markdown version:
 
 - [FINAL_SUBMISSION_READY.md](./FINAL_SUBMISSION_READY.md)
 
