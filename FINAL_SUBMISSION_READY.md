@@ -211,27 +211,54 @@ Must handle:
 
 ## Ready-to-Send Submission Email Template
 
-**Subject:** Prompt Engineering Assignment & Project Submission – [Your Name]
+**Subject:** Prompt Engineering Assignment & Project Submission – Dee George
 
-Dear Sir,  
+Dear Team,  
 
 Please find my complete submission for the Prompt Engineering module.
 
-I have attached / included:
+As instructed, I have attached / included:
 1. Assignment 1 solution  
 2. Assignment 2 solution  
 3. Assignment 3 solution  
 4. Project work and prompt workflow documentation  
 5. Practice/workout links and phase project references
 
-Drive link (if applicable): [Add Link]  
+Submission format provided: Jupyter Notebook + Drive backup link  
+Drive link (if applicable): [Add Your Drive Link]  
 Access permission: Enabled for reviewers
+
+This submission is being shared with both recipients before the deadline as requested.
 
 Please let me know if any additional clarification is required.
 
 Regards,  
-[Your Name]  
+Dee George  
 [Batch / Contact]
+
+---
+
+## Submission Requirement Mapping (As Per Instructions)
+
+### Required Submission 1: Assignment Work
+- [x] Structured Prompt Engineering solution completed
+- [x] Assignment 1, Assignment 2, and Assignment 3 are fully documented
+- [x] Work is organized with clear sections and professional formatting
+
+### Required Submission 2: Project Submission
+- [x] Real-world Prompt Engineering project included
+- [x] Project workflow and deliverables included
+- [x] Submission format included as Jupyter Notebook
+- [x] Optional Drive link section provided for project files backup
+
+### Already Submitted / Included Items
+- [x] ChatGPT / AI practice or workout references included
+- [x] Prompt engineering phase project references included
+
+### Submission Process Requirement
+- [x] Email template prepared for complete submission
+- [x] Notes included for sharing with trainer and Neju Sir
+- [x] Drive access permission reminder included
 
 ---
 
@@ -245,4 +272,3 @@ Regards,
 - [x] Evaluation and optimization included  
 - [x] Security considerations included  
 - [x] Email template prepared
-
